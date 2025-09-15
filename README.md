@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Bedirhan Korkmaz  
 
-<!--
-**Coder-HANN/Coder-Hann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student (4th Year)**  
+💻 Passionate about **.NET | C# | Backend Development**  
+📍 Based in Istanbul, Turkey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Languages:** C#  
+- **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework  
+- **Databases:** MS SQL Server
+- **Tools:** Git, Swagger, Linux  
+
+---
+
+## 📊 GitHub Stats
+![Bedirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderhan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhan&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/bedirhan-korkmaz-a81234243/)  
+- 📧 **bedirhan.korkmaz@stu.rumeli.edu.tr**
+  
+---
+✨ *“Always learning, always building.”*  
