@@ -15,7 +15,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Bedirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-HANN&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-HANN&layout=compact&theme=radical)
 
 ---
